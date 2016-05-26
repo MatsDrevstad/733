@@ -1,0 +1,100 @@
+<style type="text/css">
+<!--
+
+p {
+	font-family: Arial Narrow, Arial; 
+	font-size: 12pt;
+	font-weight: normal;
+	color: #000000;
+}
+
+body {
+	font-family: Arial Narrow, Arial; 
+	font-size: 12pt;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #EEEEEE;
+	margin-left = 20;
+	margin-top = 15;
+	margin-right = 20;
+}
+
+tr.monkeyface1 td {
+	background-color: #FFFFFF;
+}
+
+tr.monkeyface2 td {
+	background-color: #996633;
+}
+tr.monkeyface3 td {
+	background-color: #996633;
+}
+
+tr.monkeyface4 td {
+	background-color: #FFFFFF;
+}
+
+tr.monkeyface5 td {
+	background-color: #339966;
+}
+
+td {
+	font-family: Arial Narrow, Arial; 
+	font-size: 12pt;
+	font-weight: normal;
+	color: #000000;	
+	background-color: #FFFFFF;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+td.red {
+	color: #CC3333;	
+}
+
+td.copybackground {
+	background-color: #EEEEEE;
+}
+
+select {
+	width = 100%;
+}
+
+a {
+	font-family: Arial Narrow, Arial; 
+	font-size: 12pt;
+	font-weight: normal;
+	color: #000066;
+	text-decoration: none;
+}
+
+
+a:visited {
+	font-family: Arial Narrow, Arial; 
+	font-size: 12pt;
+	font-weight: normal;
+	color: #000066;
+	text-decoration: none;  
+}
+
+a.slimface:visited {
+	font-family: Arial Narrow, Arial; 
+	font-size: 12pt;
+	font-weight: normal;
+	color: #339966;
+	text-decoration: none;  
+}
+
+a:hover {
+	font-family: Arial Narrow, Arial; 
+	font-size: 12pt;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;  
+}
+
+-->
+</style>
+
